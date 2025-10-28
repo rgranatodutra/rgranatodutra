@@ -1,1 +1,1 @@
-I'm just another web developer, do not did college yet, but i have some natural skills to transform ideas in real code and also to track and fix bugs.
+I’m a web developer passionate about writing clean, scalable, and maintainable code. I enjoy challenging myself with logical and system architecture problems, always aiming for elegant and efficient solutions.
